@@ -1,0 +1,6 @@
+url: https://github.com/aivos-xie/dsh-glass-ui
+name: aivos-xie/dsh-glass-ui
+category: theme
+description:
+  en: Glassmorphism skin for DeepSeek Harness - layered frost on the conversation, sidebar, composer and overlays, with three rendering tiers, adjustable intensity and background tone, glass message bubbles, live support for reduced-motion, reduced-transparency, increased-contrast and forced-colors, and an empty host-side apply() that registers no tools and makes no network requests.
+  zh: 玻璃外观皮肤——对话、侧栏、输入区与浮层分层磨砂，三档渲染质量、可调强度与背景色调、消息玻璃，实时跟随减少动效/减少透明/增加对比/强制颜色四种系统偏好，宿主侧 apply() 为空实现，不注册工具、不发网络请求。
